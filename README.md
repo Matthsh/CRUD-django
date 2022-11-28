@@ -1,5 +1,5 @@
 # CRUD-django
-
+<p>
 criação do projeto
     python3 -m venv projeto // cria o ambiente virtual
     source ./projeto/bin/activate // ativa o ambiente virtual
@@ -9,3 +9,4 @@ criação do projeto
     python manage.py migrate // cria o banco de dados
     python manage.py createsuperuser // cria usuário administrador
     python manage.py startapp core // cria nova sub-app para o projeto
+    </p>
